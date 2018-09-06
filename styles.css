@@ -141,6 +141,10 @@ button {
   font-weight: 300;
 }
 
+.code-display {
+  display: none;
+}
+
 .image-container1 {
   height: 400px;
   width: 400px;
@@ -309,6 +313,7 @@ button {
 }
 
 #navbar-button {
+  margin-left: 20px;
   width: 60px;
   height: 60px;
   padding: 0;
